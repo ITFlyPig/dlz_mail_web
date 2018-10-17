@@ -1,0 +1,2 @@
+springboot+mybatis的web项目：
+框架都好了，以后新建的web项目从这里clone就行了
